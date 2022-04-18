@@ -11,6 +11,7 @@ Libraries used:
 - scipy
 
 #Results
-<img width="340" alt="Screen Shot 2022-04-17 at 10 27 42 PM" src="https://user-images.g<img width="340" alt="Screen Shot 2022-04-17 at 10 27 59 PM" src="https://user-images.githubusercontent.com/98793962/163745046-19166430-5752-41e3-9b85-c74d6edad5c8.png">
-ithubusercontent.com/98793962/163744965-72095ee5-37ba-414d-b12f-f27569130663.png">
+![image](https://user-images.githubusercontent.com/98793962/163745687-49cffb3c-3134-4ae3-b884-718c8e41042a.png)
+![image](https://user-images.githubusercontent.com/98793962/163745701-cfd2b906-fb48-40b9-b410-18e94df07ff1.png)
+
 We can understnad that the avergae temperatures in the months of June and Dcember are of 71 degrees and 75 degrees respectively. June had a lowest temperature of 64 degrees F and a highest temperature of 85 degrees F.  While december had a lowest temperature of 56 degrees F and a highest temperature of 83 degrees F.  
